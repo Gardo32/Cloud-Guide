@@ -8,6 +8,8 @@
 
 ---
 
+</br>
+
 ## Video Courses
 
 </br>
@@ -17,10 +19,14 @@
  - Paid | [NEW Ultimate AWS Certified Cloud Practitioner CLF-C02 Udemy](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?kw=clf&src=sac)
  
  - Paid alternatives | [AWS Certified Cloud Practitioner CLF-C02 Video Course 2024  tutorialsdojo.com](https://portal.tutorialsdojo.com/courses/aws-certified-cloud-practitioner-clf-c02-video-course/)
+
+</br>
   
 > **Notes:** If you don't want to watch a video course, study from [Stephane's course slides](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/EfSDlrj4emtEoDnDwWfJbY0BmcDGHsz44zqsQiQl5OS9mg?e=gJlzTs).
 
 ---
+
+</br>
 
 ## Reading Resources
 
@@ -33,6 +39,8 @@
 
 ---
 
+</br>
+
 ## Studying Finalization
 
 </br>
@@ -41,9 +49,13 @@
   - [AWS Cloud Essentials](https://explore.skillbuilder.aws/learn/learning_plan/view/82/cloud-essentials-knowledge-badge-readiness-path) | You can only get the badge to test your knowledge or you can take the full path. (MANDATORY)
   - [AWS Cloud Quest](https://explore.skillbuilder.aws/learn/course/11458/AWS%2520Cloud%2520Quest%253A%2520Cloud%2520Practitioner) | This is to get hands-on experience and get a badge too. (OPTIONAL)
 
+</br>
+
 > **Notes:** If you find any weak points in your knowledge or you fail the AWS Cloud Essentials badge, go reread the [Reading Resources](#reading-resources) then redo the exam the next day.
 
 ---
+
+</br>
 
 ## Exam Preparation
 
@@ -62,5 +74,7 @@
  - Free | [Official Practice Exams](https://lnkd.in/dadBHc5P)
  
  - CCP101 in Moodle.
+
+</br>
 
 > **Notes:** If you find any weak points in your knowledge or fail any of the practice exams, go reread the [Reading Resources](#reading-resources) then redo the exams.
