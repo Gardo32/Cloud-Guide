@@ -8,6 +8,8 @@
 
 ---
 
+<br/>
+
 ## Video Courses
 
 - Free | [FreeCodeCamp Cloud Practitioner Course](https://www.youtube.com/watch?v=NhDYbskXRgc)
@@ -19,6 +21,8 @@
 
 ---
 
+<br/>
+
 ## Reading Resources
 
 - [Stephane's course slides](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/EfSDlrj4emtEoDnDwWfJbY0BmcDGHsz44zqsQiQl5OS9mg?e=gJlzTs) (OPTIONAL)
@@ -27,6 +31,8 @@
 - [AWS Practitioner notes](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/Ef9Wmdy0Vh5JlPMhK93pTZQBJ1QfnZ73e9w43Pfs_YVepA?e=kN7P3X) (BEST TO READ)
 
 ---
+
+<br/>
 
 ## Studying Finalization
 
@@ -38,6 +44,8 @@
 > **Notes:** If you find any weak points in your knowledge or you fail the AWS Cloud Essentials badge, go reread the [Reading Resources](#reading-resources) then redo the exam the next day.
 
 ---
+
+<br/>
 
 ## Exam Preparation
 
