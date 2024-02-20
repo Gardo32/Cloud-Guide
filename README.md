@@ -1,7 +1,7 @@
 # **AWS Student Guide for NVTC students**
 
-- [CLF-C02 Guide Github](CLF-C02G.md)
-- [CLF-C02 Guide Onedrive](CLF-C02O.md)
+- [CLF-C02 Guide](CLF-C02.md)
+- [SAA-C03 Guide](SAA-C03.md)
 
 
 ---
