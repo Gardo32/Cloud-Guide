@@ -17,6 +17,6 @@
 ## **Credits:**
 - Made By: Mohammed Aldaqaq | Nv22084
 - Contributors:
-  Mohammed Azan | Nv22092 | **CLF-C02**
-  Elyas Rahimi | Nv23132 | **CLF-C02**
-  Salman Abdulrazaq | Nv21064 | **SAA-C03**
+  - Mohammed Azan | Nv22092 | **CLF-C02**
+  - Elyas Rahimi | Nv23132 | **CLF-C02**
+  - Salman Abdulrazaq | Nv21064 | **SAA-C03**
