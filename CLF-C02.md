@@ -10,6 +10,8 @@
 
 ## Video Courses
 
+</br>
+
  - Free | [FreeCodeCamp Cloud Practitioner Course](https://www.youtube.com/watch?v=NhDYbskXRgc)
  
  - Paid | [NEW Ultimate AWS Certified Cloud Practitioner CLF-C02 Udemy](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?kw=clf&src=sac)
@@ -22,6 +24,8 @@
 
 ## Reading Resources
 
+</br>
+
 - [Stephane's course slides](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/EfSDlrj4emtEoDnDwWfJbY0BmcDGHsz44zqsQiQl5OS9mg?e=gJlzTs) | (OPTIONAL)
 - [WhizCards](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/ETQhZNySjYxFrTrvOu2IEfoBtARZVz1kb61g98Bz9F1vKw?e=z784xA) | with details about most services (MANDATORY)
 - [Tutorials-Dojo-Study-Guide.pdf](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/EaIpAju_Q2hMt9fzAQyqztMBiV8XiBhRwGp-FUT5tVT97A?e=Xrjbrg) | Tutorial dojo's cheat sheet and study guide (BEST TO READ, MANDATORY FOR REREAD)
@@ -30,6 +34,8 @@
 ---
 
 ## Studying Finalization
+
+</br>
 
 - AWS SkillBuilder
   - [AWS Cloud Essentials](https://explore.skillbuilder.aws/learn/learning_plan/view/82/cloud-essentials-knowledge-badge-readiness-path) | You can only get the badge to test your knowledge or you can take the full path. (MANDATORY)
@@ -40,6 +46,8 @@
 ---
 
 ## Exam Preparation
+
+</br>
 
  - Free | [Tutorial Dojo Sample](https://portal.tutorialsdojo.com/product-category/free-practice-exams/)
  
