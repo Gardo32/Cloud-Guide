@@ -71,7 +71,7 @@
  
  - Free | [Mock Exam by Elyas](https://forms.gle/XJkVnV5AfrDi4cVn9)
  
- - Free | [Official Practice Exams](https://lnkd.in/dadBHc5P)
+ - Free | [Official Practice Exams]([https://lnkd.in/dadBHc5P](https://explore.skillbuilder.aws/learn/course/external/view/elearning/14050/aws-certified-cloud-practitioner-official-practice-question-set-clf-c02-english))
  
  - CCP101 in Moodle.
 
