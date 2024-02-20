@@ -1,6 +1,7 @@
 # Study Guide For CLF-C02
 
 ## Free retake till 15 April: `AWSRETAKE24`
+### [Main File Storage](README.md)
 
 ## Exam Overview
 - [AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf](https://link-to-your-pdf)
