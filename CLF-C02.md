@@ -6,6 +6,8 @@
 ## Exam Overview
 - [AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/EQCywp_U_F1CvkFRcRwmREgBVE2WVqhldVCnJ6lWW_SkPQ?e=rz441A)
 
+<br/>
+
 ---
 
 <br/>
@@ -19,6 +21,8 @@
 
 > **Notes:** If you don't want to watch a video course, study from the [Stephane's course slides](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/EfSDlrj4emtEoDnDwWfJbY0BmcDGHsz44zqsQiQl5OS9mg?e=gJlzTs).
 
+<br/>
+
 ---
 
 <br/>
@@ -29,6 +33,8 @@
 - [WhizCards](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/ETQhZNySjYxFrTrvOu2IEfoBtARZVz1kb61g98Bz9F1vKw?e=z784xA) with details about most services (MANDATORY)
 - [Tutorials-Dojo-Study-Guide.pdf](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/EaIpAju_Q2hMt9fzAQyqztMBiV8XiBhRwGp-FUT5tVT97A?e=Xrjbrg) Tutorial dojo's cheat sheet and study guide (BEST TO READ | MANDATORY FOR REREAD)
 - [AWS Practitioner notes](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/Ef9Wmdy0Vh5JlPMhK93pTZQBJ1QfnZ73e9w43Pfs_YVepA?e=kN7P3X) (BEST TO READ)
+
+<br/>
 
 ---
 
@@ -42,6 +48,8 @@
 <br/>
 
 > **Notes:** If you find any weak points in your knowledge or you fail the AWS Cloud Essentials badge, go reread the [Reading Resources](#reading-resources) then redo the exam the next day.
+
+<br/>
 
 ---
 
