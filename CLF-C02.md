@@ -6,7 +6,7 @@
 ## Exam Overview
 - [AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/EQCywp_U_F1CvkFRcRwmREgBVE2WVqhldVCnJ6lWW_SkPQ?e=rz441A)
 
----
+
 
 ## Video Courses
 
