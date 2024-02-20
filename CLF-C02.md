@@ -13,8 +13,8 @@
 ## Video Courses
 
 - Free I [FreeCodeCamp Cloud Practitioner Course](https://www.youtube.com/watch?v=NhDYbskXRgc)
-- Paid I [NEW Ultimate AWS Certified Cloud Practitioner CLF-C02 | Udemy](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?kw=clf&src=sac)
-  - Paid alternatives | [AWS Certified Cloud Practitioner CLF-C02 Video Course 2024 (tutorialsdojo.com)](https://portal.tutorialsdojo.com/courses/aws-certified-cloud-practitioner-clf-c02-video-course/)
+- Paid I [NEW Ultimate AWS Certified Cloud Practitioner CLF-C02 I Udemy](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?kw=clf&src=sac)
+  - Paid alternatives I [AWS Certified Cloud Practitioner CLF-C02 Video Course 2024 (tutorialsdojo.com)](https://portal.tutorialsdojo.com/courses/aws-certified-cloud-practitioner-clf-c02-video-course/)
 <br/>
 
 > **Notes:** If you don't want to watch a video course, study from the [Stephane's course slides](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/EfSDlrj4emtEoDnDwWfJbY0BmcDGHsz44zqsQiQl5OS9mg?e=gJlzTs).
@@ -27,7 +27,7 @@
 
 - [Stephane's course slides](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/EfSDlrj4emtEoDnDwWfJbY0BmcDGHsz44zqsQiQl5OS9mg?e=gJlzTs) (OPTIONAL)
 - [WhizCards](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/ETQhZNySjYxFrTrvOu2IEfoBtARZVz1kb61g98Bz9F1vKw?e=z784xA) with details about most services (MANDATORY)
-- [Tutorials-Dojo-Study-Guide.pdf](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/EaIpAju_Q2hMt9fzAQyqztMBiV8XiBhRwGp-FUT5tVT97A?e=Xrjbrg) Tutorial dojo's cheat sheet and study guide (BEST TO READ | MANDATORY FOR REREAD)
+- [Tutorials-Dojo-Study-Guide.pdf](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/EaIpAju_Q2hMt9fzAQyqztMBiV8XiBhRwGp-FUT5tVT97A?e=Xrjbrg) Tutorial dojo's cheat sheet and study guide (BEST TO READ I MANDATORY FOR REREAD)
 - [AWS Practitioner notes](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/Ef9Wmdy0Vh5JlPMhK93pTZQBJ1QfnZ73e9w43Pfs_YVepA?e=kN7P3X) (BEST TO READ)
 
 
