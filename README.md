@@ -12,8 +12,7 @@
 
 <br/>
 
-## **Credits:**
-</br>
+> ## **Credits:**
 
 > #### **Made By:** Mohammed Aldaqaq | Nv22084</br>
 > ### Contributors:
