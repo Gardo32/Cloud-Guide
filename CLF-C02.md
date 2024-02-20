@@ -14,6 +14,8 @@
 - Paid | [NEW Ultimate AWS Certified Cloud Practitioner CLF-C02 | Udemy](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?kw=clf&src=sac)
   - Paid alternatives | [AWS Certified Cloud Practitioner CLF-C02 Video Course 2024 (tutorialsdojo.com)](https://portal.tutorialsdojo.com/courses/aws-certified-cloud-practitioner-clf-c02-video-course/)
 
+> **Notes:** If you don't want to watch a video course, study from the [Stephane's course slides](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/EfSDlrj4emtEoDnDwWfJbY0BmcDGHsz44zqsQiQl5OS9mg?e=gJlzTs).
+
 ---
 
 ## Reading Resources
