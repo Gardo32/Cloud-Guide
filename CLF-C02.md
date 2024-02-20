@@ -22,18 +22,18 @@
 
 ## Reading Resources
 
-- [Stephane's course slides](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/EfSDlrj4emtEoDnDwWfJbY0BmcDGHsz44zqsQiQl5OS9mg?e=gJlzTs) (OPTIONAL)
-- [WhizCards](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/ETQhZNySjYxFrTrvOu2IEfoBtARZVz1kb61g98Bz9F1vKw?e=z784xA) with details about most services (MANDATORY)
-- [Tutorials-Dojo-Study-Guide.pdf](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/EaIpAju_Q2hMt9fzAQyqztMBiV8XiBhRwGp-FUT5tVT97A?e=Xrjbrg) Tutorial dojo's cheat sheet and study guide (BEST TO READ | MANDATORY FOR REREAD)
-- [AWS Practitioner notes](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/Ef9Wmdy0Vh5JlPMhK93pTZQBJ1QfnZ73e9w43Pfs_YVepA?e=kN7P3X) (BEST TO READ)
+- [Stephane's course slides](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/EfSDlrj4emtEoDnDwWfJbY0BmcDGHsz44zqsQiQl5OS9mg?e=gJlzTs) | (OPTIONAL)
+- [WhizCards](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/ETQhZNySjYxFrTrvOu2IEfoBtARZVz1kb61g98Bz9F1vKw?e=z784xA) | with details about most services (MANDATORY)
+- [Tutorials-Dojo-Study-Guide.pdf](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/EaIpAju_Q2hMt9fzAQyqztMBiV8XiBhRwGp-FUT5tVT97A?e=Xrjbrg) | Tutorial dojo's cheat sheet and study guide (BEST TO READ | MANDATORY FOR REREAD)
+- [AWS Practitioner notes](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/Ef9Wmdy0Vh5JlPMhK93pTZQBJ1QfnZ73e9w43Pfs_YVepA?e=kN7P3X) | (BEST TO READ)
 
 ---
 
 ## Studying Finalization
 
 - AWS SkillBuilder
-  - [AWS Cloud Essentials](https://explore.skillbuilder.aws/learn/learning_plan/view/82/cloud-essentials-knowledge-badge-readiness-path) You can only get the badge to test your knowledge or you can take the full path. (MANDATORY)
-  - [AWS Cloud Quest](https://explore.skillbuilder.aws/learn/course/11458/AWS%2520Cloud%2520Quest%253A%2520Cloud%2520Practitioner) This is to get hands-on experience and get a badge too. (OPTIONAL)
+  - [AWS Cloud Essentials](https://explore.skillbuilder.aws/learn/learning_plan/view/82/cloud-essentials-knowledge-badge-readiness-path) | You can only get the badge to test your knowledge or you can take the full path. (MANDATORY)
+  - [AWS Cloud Quest](https://explore.skillbuilder.aws/learn/course/11458/AWS%2520Cloud%2520Quest%253A%2520Cloud%2520Practitioner) | This is to get hands-on experience and get a badge too. (OPTIONAL)
 
 > **Notes:** If you find any weak points in your knowledge or you fail the AWS Cloud Essentials badge, go reread the [Reading Resources](#reading-resources) then redo the exam the next day.
 
@@ -43,7 +43,7 @@
 
  - Free | [Tutorial Dojo Sample](https://portal.tutorialsdojo.com/product-category/free-practice-exams/)
  
- - Paid | [Tutorial Dojo Exams](https://portal.tutorialsdojo.com/courses/aws-certified-cloud-practitioner-practice-exams/) (BEST)
+ - Paid | [Tutorial Dojo Exams](https://portal.tutorialsdojo.com/courses/aws-certified-cloud-practitioner-practice-exams/) | (BEST) 19 Exams
  
  - Free | [W3schools Practice Exam](https://www.w3schools.com/aws/aws_quiz.php)
    
