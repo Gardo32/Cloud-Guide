@@ -10,9 +10,11 @@
 
 ## Video Courses
 
-- Free | [FreeCodeCamp Cloud Practitioner Course](https://www.youtube.com/watch?v=NhDYbskXRgc)
-- Paid | [NEW Ultimate AWS Certified Cloud Practitioner CLF-C02 | Udemy](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?kw=clf&src=sac)
-  - Paid alternatives | [AWS Certified Cloud Practitioner CLF-C02 Video Course 2024 | tutorialsdojo.com](https://portal.tutorialsdojo.com/courses/aws-certified-cloud-practitioner-clf-c02-video-course/)
+ Free | [FreeCodeCamp Cloud Practitioner Course](https://www.youtube.com/watch?v=NhDYbskXRgc)
+ 
+ Paid | [NEW Ultimate AWS Certified Cloud Practitioner CLF-C02 | Udemy](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?kw=clf&src=sac)
+ 
+ Paid alternatives | [AWS Certified Cloud Practitioner CLF-C02 Video Course 2024 | tutorialsdojo.com](https://portal.tutorialsdojo.com/courses/aws-certified-cloud-practitioner-clf-c02-video-course/)
   
 > **Notes:** If you don't want to watch a video course, study from [Stephane's course slides](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/EfSDlrj4emtEoDnDwWfJbY0BmcDGHsz44zqsQiQl5OS9mg?e=gJlzTs).
 
@@ -39,12 +41,18 @@
 
 ## Exam Preparation
 
-- Free | [Tutorial Dojo Sample](https://portal.tutorialsdojo.com/product-category/free-practice-exams/)
-- Paid | [Tutorial Dojo Exams](https://portal.tutorialsdojo.com/courses/aws-certified-cloud-practitioner-practice-exams/) (BEST)
-- Free | [W3schools Practice Exam](https://www.w3schools.com/aws/aws_quiz.php)
-- Free | [AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/ET93g0Vgk1VNro_udrtECZ4BSaOj0kj9ekkPmifE7ERZlA?e=AHKdz7)
-- Free | [Mock Exam by Elyas](https://forms.gle/XJkVnV5AfrDi4cVn9)
-- Free | [Official Practice Exams](https://lnkd.in/dadBHc5P)
-- CCP101 in Moodle.
+ Free | [Tutorial Dojo Sample](https://portal.tutorialsdojo.com/product-category/free-practice-exams/)
+ 
+ Paid | [Tutorial Dojo Exams](https://portal.tutorialsdojo.com/courses/aws-certified-cloud-practitioner-practice-exams/) (BEST)
+ 
+ Free | [W3schools Practice Exam](https://www.w3schools.com/aws/aws_quiz.php)
+ 
+ Free | [AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/ET93g0Vgk1VNro_udrtECZ4BSaOj0kj9ekkPmifE7ERZlA?e=AHKdz7)
+ 
+ Free | [Mock Exam by Elyas](https://forms.gle/XJkVnV5AfrDi4cVn9)
+ 
+ Free | [Official Practice Exams](https://lnkd.in/dadBHc5P)
+ 
+ CCP101 in Moodle.
 
 > **Notes:** If you find any weak points in your knowledge or fail any of the practice exams, go reread the [Reading Resources](#reading-resources) then redo the exams.
