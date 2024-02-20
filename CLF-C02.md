@@ -31,6 +31,8 @@
   - [AWS Cloud Essentials](https://explore.skillbuilder.aws/learn/learning_plan/view/82/cloud-essentials-knowledge-badge-readiness-path) You can only get the badge to test your knowledge or you can take the full path. (MANDATORY)
   - [AWS Cloud Quest](https://explore.skillbuilder.aws/learn/course/11458/AWS%2520Cloud%2520Quest%253A%2520Cloud%2520Practitioner) This is to get hands-on experience and get a badge too. (OPTIONAL)
 
+
+
 > **Notes:** If you find any weak points in your knowledge or you fail the AWS Cloud Essentials badge, go reread the [Reading Resources](#reading-resources) then redo the exam the next day.
 
 ---
@@ -44,5 +46,7 @@
 - Free | [Mock Exam by Elyas](https://forms.gle/XJkVnV5AfrDi4cVn9)
 - Free | [Official Practice Exams](https://lnkd.in/dadBHc5P)
 - CCP101 in Moodle.
+
+
 
 > **Notes:** If you find any weak points in your knowledge or fail any of the practice exams, go reread the [Reading Resources](#reading-resources) then redo the exams.
