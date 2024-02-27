@@ -49,7 +49,5 @@
 > ### Contributors:
 > 
 >> Mohammed Azan | Nv22093 | **CLF-C02**
->>
 >> Elyas Rahimi | Nv23132 | **CLF-C02**
->>
 >> Salman Abdulrazaq | Nv21064 | **SAA-C03**
