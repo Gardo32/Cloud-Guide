@@ -78,7 +78,7 @@ AWS SkillBuilder
  
  Free | [Official Practice Exams](https://explore.skillbuilder.aws/learn/course/external/view/elearning/14050/aws-certified-cloud-practitioner-official-practice-question-set-clf-c02-english)
  
- CCP101 in Moodle.
+  Free | CCP101 in Moodle.
 
 
 
