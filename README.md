@@ -1,7 +1,13 @@
 # **AWS Student Guide for NVTC students**
 
 - [Main File Storage](https://nasservocational-my.sharepoint.com/:f:/g/personal/nv22084_nvtc_edu_bh/Eko3HjU0c7VCnrV0jyiIpOgBJ8UJtWtNm-oyhhr5fWAqhg?e=jLPwgp)
-- [Website (White Mode)](https://gardo32.github.io/AWS-Guide/)
+- [AWS Credly](https://www.credly.com/organizations/amazon-web-services/collections/aws-partner-program/badge_templates)
+- [AWS Certification Informations](https://aws.amazon.com/certification/exams/)
+- [AWS Training](https://www.aws.training/)
+
+>Notes: The main Github repository is in the website footer
+
+---
 
 ## Learning Guides
 
@@ -10,8 +16,10 @@
 
 ---
 
-## Free Badges in [AWS Parter Central](https://partnercentral.awspartner.com/) & [Credly](https://www.credly.com/organizations/amazon-web-services/collections/aws-partner-program/badge_templates)
+## Free Badges in [AWS Parter Central](https://partnercentral.awspartner.com/)
 ![Pbadges](https://res.cloudinary.com/practicaldev/image/fetch/s--q14ru-MM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/63zwtdjfh34g2vgb355k.jpg)
+
+> Notes: If you can't find the course for the Partner badges go to the credly site for the badge and click either the course link or the "Learn more" link
 
 ---
 
@@ -26,7 +34,7 @@
 
 ---
 
-## Free Badges in [AWS Builders Quest](https://aws.amazon.com/events/sfid-2024/?solution-immersion-days-cards.sort-by=item.additionalFields.sortDateTime&solution-immersion-days-cards.sort-order=asc&awsf.content-focus=*all&awsf.event-type=*all&awsf.language=*all&awsf.location=*all&awsf.level=*all&awsf.month=*all&awsf.topic=*all)
+## Free Badges in [AWS Builders Quest](https://aws.amazon.com/events/sfid-2024/?solution-immersion-days-cards.sort-by=item.additionalFields.sortDateTime&solution-immersion-days-cards.sort-order=asc&awsf.content-focus=*all&awsf.event-type=*all&awsf.language=*all&awsf.location=*all&awsf.level=*all&awsf.month=*all&awsf.topic=*all) & [Credly](https://www.credly.com/organizations/aws-wwcs-solution-architect/badges)
 ![Badges](https://res.cloudinary.com/practicaldev/image/fetch/s--PsRDETPb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v0fymyym0j5wybxj05wp.jpg)
 
 ---
