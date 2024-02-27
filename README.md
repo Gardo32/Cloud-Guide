@@ -3,7 +3,7 @@
 - [AWS Certification Informations](https://aws.amazon.com/certification/exams/)
 - [AWS Training](https://www.aws.training/)
 
->Notes: The main Github repository is in the website footer
+>Notes: The main Github repository is in the website's footer
 
 ---
 
@@ -23,6 +23,8 @@
 
 ## Badges Available in [AWS Academy](https://awsacademy.instructure.com/)
 ![Abadges](https://res.cloudinary.com/practicaldev/image/fetch/s--jAaelPNG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n26wd51qdw9pubq24lhy.jpg)
+
+> Notes: For Non-CCP students your login credentials are your school email and `NVTC@1234` as your password, For all student including CCP students you need to be enrolled in the extra courses for get the badges.
 
 
 ---
