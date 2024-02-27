@@ -1,5 +1,3 @@
-# **AWS Student Guide for NVTC students**
-
 - [Main File Storage](https://nasservocational-my.sharepoint.com/:f:/g/personal/nv22084_nvtc_edu_bh/Eko3HjU0c7VCnrV0jyiIpOgBJ8UJtWtNm-oyhhr5fWAqhg?e=jLPwgp)
 - [AWS Credly](https://www.credly.com/organizations/amazon-web-services/collections/aws-partner-program/badge_templates)
 - [AWS Certification Informations](https://aws.amazon.com/certification/exams/)
