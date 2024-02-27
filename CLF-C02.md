@@ -20,7 +20,7 @@
  
  Paid alternatives | [AWS Certified Cloud Practitioner CLF-C02 Video Course 2024  tutorialsdojo.com](https://portal.tutorialsdojo.com/courses/aws-certified-cloud-practitioner-clf-c02-video-course/)
 
-</br>
+
   
 > **Notes:** If you don't want to watch a video course, study from [Stephane's course slides](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/EfSDlrj4emtEoDnDwWfJbY0BmcDGHsz44zqsQiQl5OS9mg?e=gJlzTs).
 
@@ -54,7 +54,7 @@ AWS SkillBuilder
   
   [AWS Cloud Quest](https://explore.skillbuilder.aws/learn/course/11458/AWS%2520Cloud%2520Quest%253A%2520Cloud%2520Practitioner) | This is to get hands-on experience and get a badge too. (OPTIONAL)
 
-</br>
+
 
 > **Notes:** If you find any weak points in your knowledge or you fail the AWS Cloud Essentials badge, go reread the [Reading Resources](#reading-resources) then redo the exam the next day.
 
@@ -80,6 +80,6 @@ AWS SkillBuilder
  
  CCP101 in Moodle.
 
-</br>
+
 
 > **Notes:** If you find any weak points in your knowledge or fail any of the practice exams, go reread the [Reading Resources](#reading-resources) then redo the exams.
