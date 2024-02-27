@@ -5,7 +5,7 @@
 
 ---
 
-## Free Badges in [AWS Parter Central](https://partnercentral.awspartner.com/)
+## Free Badges in [AWS Parter Central](https://partnercentral.awspartner.com/) & [Credly](https://www.credly.com/organizations/amazon-web-services/collections/aws-partner-program/badge_templates)
 ![Pbadges](https://res.cloudinary.com/practicaldev/image/fetch/s--q14ru-MM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/63zwtdjfh34g2vgb355k.jpg)
 ---
 
