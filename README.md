@@ -1,5 +1,7 @@
 # **AWS Student Guide for NVTC students**
 
+ > [Main File Storage](https://nasservocational-my.sharepoint.com/:f:/g/personal/nv22084_nvtc_edu_bh/Eko3HjU0c7VCnrV0jyiIpOgBJ8UJtWtNm-oyhhr5fWAqhg?e=jLPwgp)
+
 ## Learning Guides
 
 - [CLF-C02 Guide](CLF-C02.md)
@@ -9,6 +11,7 @@
 
 ## Free Badges in [AWS Parter Central](https://partnercentral.awspartner.com/) & [Credly](https://www.credly.com/organizations/amazon-web-services/collections/aws-partner-program/badge_templates)
 ![Pbadges](https://res.cloudinary.com/practicaldev/image/fetch/s--q14ru-MM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/63zwtdjfh34g2vgb355k.jpg)
+
 ---
 
 ## Badges Available in [AWS Academy](https://awsacademy.instructure.com/)
@@ -20,13 +23,15 @@
 ## Free Badges in [AWS SkillBuilder](https://explore.skillbuilder.aw)
 ![badges](https://res.cloudinary.com/practicaldev/image/fetch/s--vU3EvCho--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dkkwf7a40rojw0q5udzn.jpg)
 
-  
+---
+
+## Free Badges in [AWS Builders Quest](https://aws.amazon.com/events/sfid-2024/?solution-immersion-days-cards.sort-by=item.additionalFields.sortDateTime&solution-immersion-days-cards.sort-order=asc&awsf.content-focus=*all&awsf.event-type=*all&awsf.language=*all&awsf.location=*all&awsf.level=*all&awsf.month=*all&awsf.topic=*all)
+![Badges](https://res.cloudinary.com/practicaldev/image/fetch/s--PsRDETPb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v0fymyym0j5wybxj05wp.jpg)
 
 ---
 
-## > [Main File Storage](https://nasservocational-my.sharepoint.com/:f:/g/personal/nv22084_nvtc_edu_bh/Eko3HjU0c7VCnrV0jyiIpOgBJ8UJtWtNm-oyhhr5fWAqhg?e=jLPwgp)
-
----
+## Free Badges in [AWS Educate](https://www.awseducate.com/student/s/content)
+![bagdes](https://res.cloudinary.com/practicaldev/image/fetch/s--ifWmZ1DF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ty805dxfo6dcze4gpi77.jpg)
 
 > ## **Credits:**
 > 
