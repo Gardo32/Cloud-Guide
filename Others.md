@@ -6,7 +6,7 @@
 - [Cisco Academy](https://www.netacad.com/)
 - [IBM SkillBuild](https://skillsbuild.org/log-in)
 
-    ### Github Repositories
+  ### Github Repositories
     - [Cloud-Community's](https://github.com/cloudcommunity/Free-Certifications)
     - [Free IT Certification list and Badges](https://github.com/surajbhan-3/Free-IT-Certification-and-badges_list)
 
