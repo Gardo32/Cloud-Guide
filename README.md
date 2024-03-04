@@ -1,7 +1,10 @@
+# **Main Links**
+
 - [Main File Storage](https://nasservocational-my.sharepoint.com/:f:/g/personal/nv22084_nvtc_edu_bh/Eko3HjU0c7VCnrV0jyiIpOgBJ8UJtWtNm-oyhhr5fWAqhg?e=jLPwgp)
 - [AWS Credly](https://www.credly.com/organizations/amazon-web-services/collections/aws-partner-program/badge_templates)
 - [AWS Certification Informations](https://aws.amazon.com/certification/exams/)
 - [AWS Training](https://www.aws.training/)
+- [Other Links](Others.md)
 
 >Notes: The main Github repository is in the website's footer
 
@@ -11,6 +14,7 @@
 
 - [CLF-C02 Guide](CLF-C02.md)
 - [SAA-C03 Guide](SAA-C03.md) Coming Soon...
+
 
 ---
 
