@@ -15,6 +15,9 @@
 - [CLF-C02 Guide](CLF-C02.md)
 - [SAA-C03 Guide](SAA-C03.md) Coming Soon...
 
+---
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7171125133217054720" height="1631" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 ---
 
