@@ -22,7 +22,6 @@
 ## Helpful Linkedin Posts
 
 <div style="display: flex; justify-content: center;">
-    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7171125133217054720" height="1631" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
     <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7149491126482210817" height="2219" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 </div>
 
