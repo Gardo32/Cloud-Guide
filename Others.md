@@ -5,6 +5,8 @@
 - [Odin Project](https://www.theodinproject.com/paths)
 - [Cisco Academy](https://www.netacad.com/)
 - [IBM SkillBuild](https://skillsbuild.org/log-in)
+- [Deep Racer Student League](https://student.deepracer.com/home)
+- [EC-Council Academy](https://codered.eccouncil.org/your-portal/home?logged=true)
 
   ### Github Repositories
     - [Cloud-Community's](https://github.com/cloudcommunity/Free-Certifications)
@@ -18,12 +20,7 @@
 - [AWS APN](https://partnercentral.awspartner.com/)
 - [NVTC Portal](https://nasservocational.sharepoint.com/sites/AcademicTeam/SitePages/NVTC-Students%27-Portal.aspx)
 
----
-## Helpful Linkedin Posts
 
-<div style="display: flex; justify-content: center;">
-    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7149491126482210817" height="2219" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-</div>
 
 
 
