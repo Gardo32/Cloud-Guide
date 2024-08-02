@@ -16,7 +16,7 @@
 ## Free Badges:
 
 - [AWS](AWS-Badges.md)
-- [Azure](learn.microsoft.com)
+- [Azure](https://learn.microsoft.com/en-us/training/)
 - [Other Academys](Others.md)
 
 ---
