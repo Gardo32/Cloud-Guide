@@ -24,7 +24,7 @@ Download the [AWS Certified Cloud Practitioner Exam Guide (PDF)](https://nasserv
 - [Stephane's Course Slides](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/EfSDlrj4emtEoDnDwWfJbY0BmcDGHsz44zqsQiQl5OS9mg?e=gJlzTs) | **Optional**
 - [WhizCards](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/ETQhZNySjYxFrTrvOu2IEfoBtARZVz1kb61g98Bz9F1vKw?e=z784xA) | **Mandatory** | Detailed overview of most services
 - [Tutorials Dojo Study Guide (PDF)](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/EaIpAju_Q2hMt9fzAQyqztMBiV8XiBhRwGp-FUT5tVT97A?e=Xrjbrg) | **Mandatory for Review** | Cheat sheet and study guide
-- [AWS Practitioner Notes](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/Ef9Wmdy0Vh5JlPMhK93pTZQBJ1QfnZ73e9w43Pfs_YVepA?e=kN7P3X) | **Best for Reading**
+- [AWS Practitioner Notes](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/Ef9Wmdy0Vh5JlPMhK93pTZQBJ1QfnZ73e9w43Pfs_YVepA?e=kN7P3X) | **Better to read**
 
 ---
 
@@ -41,7 +41,7 @@ Download the [AWS Certified Cloud Practitioner Exam Guide (PDF)](https://nasserv
 ## Exam Preparation
 
 - **Free**: [Tutorial Dojo Sample Exams](https://portal.tutorialsdojo.com/product-category/free-practice-exams/)  
-- **Paid**: [Tutorial Dojo 19-Exam Pack](https://portal.tutorialsdojo.com/courses/aws-certified-cloud-practitioner-practice-exams/) | **Best**
+- **Paid**: [Tutorial Dojo 19-Exam Pack](https://portal.tutorialsdojo.com/courses/aws-certified-cloud-practitioner-practice-exams/), **Best**
 - **Free**: [W3Schools Practice Exam](https://www.w3schools.com/aws/aws_quiz.php)
 - **Free**: [AWS Certified Cloud Practitioner Sample Questions (PDF)](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/ET93g0Vgk1VNro_udrtECZ4BSaOj0kj9ekkPmifE7ERZlA?e=AHKdz7)
 - **Free**: [Mock Exam by Elyas](https://forms.gle/XJkVnV5AfrDi4cVn9)
