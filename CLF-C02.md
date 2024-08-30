@@ -1,85 +1,51 @@
-# Study Guide For CLF-C02
+# 🎓 Study Guide for CLF-C02
 
-## Free retake till 15 April: `AWSRETAKE24`
-### > [Main File Storage](https://nasservocational-my.sharepoint.com/:f:/g/personal/nv22084_nvtc_edu_bh/Eko3HjU0c7VCnrV0jyiIpOgBJ8UJtWtNm-oyhhr5fWAqhg?e=jLPwgp)
+## Special Offer
+**Free Retake Until April 15**: Use code `AWSRETAKE24`  
+🔗 [Main File Storage](https://nasservocational-my.sharepoint.com/:f:/g/personal/nv22084_nvtc_edu_bh/Eko3HjU0c7VCnrV0jyiIpOgBJ8UJtWtNm-oyhhr5fWAqhg?e=jLPwgp)
 
 ## Exam Overview
-[AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/EQCywp_U_F1CvkFRcRwmREgBVE2WVqhldVCnJ6lWW_SkPQ?e=rz441A)
+Download the [AWS Certified Cloud Practitioner Exam Guide (PDF)](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/EQCywp_U_F1CvkFRcRwmREgBVE2WVqhldVCnJ6lWW_SkPQ?e=rz441A) for a detailed overview of the exam content and objectives.
 
 ---
-
-
 
 ## Video Courses
 
+- **Free**: [FreeCodeCamp Cloud Practitioner Course](https://www.youtube.com/watch?v=NhDYbskXRgc)  
+- **Paid**: [NEW Ultimate AWS Certified Cloud Practitioner CLF-C02 Udemy](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?kw=clf&src=sac)  
+- **Paid Alternatives**: [AWS Certified Cloud Practitioner CLF-C02 Video Course - Tutorials Dojo](https://portal.tutorialsdojo.com/courses/aws-certified-cloud-practitioner-clf-c02-video-course/)
 
-
- Free | [FreeCodeCamp Cloud Practitioner Course](https://www.youtube.com/watch?v=NhDYbskXRgc)
- 
- Paid | [NEW Ultimate AWS Certified Cloud Practitioner CLF-C02 Udemy](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?kw=clf&src=sac)
- 
- Paid alternatives | [AWS Certified Cloud Practitioner CLF-C02 Video Course 2024  tutorialsdojo.com](https://portal.tutorialsdojo.com/courses/aws-certified-cloud-practitioner-clf-c02-video-course/)
-
-
-  
-> **Notes:** If you don't want to watch a video course, study from [Stephane's course slides](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/EfSDlrj4emtEoDnDwWfJbY0BmcDGHsz44zqsQiQl5OS9mg?e=gJlzTs).
+> **Note:** Prefer reading? Study from [Stephane's Course Slides](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/EfSDlrj4emtEoDnDwWfJbY0BmcDGHsz44zqsQiQl5OS9mg?e=gJlzTs).
 
 ---
-
-
 
 ## Reading Resources
 
-
-
-[Stephane's course slides](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/EfSDlrj4emtEoDnDwWfJbY0BmcDGHsz44zqsQiQl5OS9mg?e=gJlzTs) | OPTIONAL
-
-[WhizCards](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/ETQhZNySjYxFrTrvOu2IEfoBtARZVz1kb61g98Bz9F1vKw?e=z784xA) | With details about most services | MANDATORY
-
-[Tutorials-Dojo-Study-Guide.pdf](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/EaIpAju_Q2hMt9fzAQyqztMBiV8XiBhRwGp-FUT5tVT97A?e=Xrjbrg) | Tutorial dojo's cheat sheet and study guide | BEST TO READ | MANDATORY FOR REREAD
-
-[AWS Practitioner notes](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/Ef9Wmdy0Vh5JlPMhK93pTZQBJ1QfnZ73e9w43Pfs_YVepA?e=kN7P3X) | BEST TO READ
+- [Stephane's Course Slides](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/EfSDlrj4emtEoDnDwWfJbY0BmcDGHsz44zqsQiQl5OS9mg?e=gJlzTs) | **Optional**
+- [WhizCards](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/ETQhZNySjYxFrTrvOu2IEfoBtARZVz1kb61g98Bz9F1vKw?e=z784xA) | **Mandatory** | Detailed overview of most services
+- [Tutorials Dojo Study Guide (PDF)](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/EaIpAju_Q2hMt9fzAQyqztMBiV8XiBhRwGp-FUT5tVT97A?e=Xrjbrg) | **Mandatory for Review** | Cheat sheet and study guide
+- [AWS Practitioner Notes](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/Ef9Wmdy0Vh5JlPMhK93pTZQBJ1QfnZ73e9w43Pfs_YVepA?e=kN7P3X) | **Best for Reading**
 
 ---
-
-
 
 ## Studying Finalization
 
+### AWS SkillBuilder
+- [AWS Cloud Essentials](https://explore.skillbuilder.aws/learn/learning_plan/view/82/cloud-essentials-knowledge-badge-readiness-path) | **Mandatory** | Earn a badge and test your knowledge or complete the full path.
+- [AWS Cloud Quest](https://explore.skillbuilder.aws/learn/course/11458/AWS%2520Cloud%2520Quest%253A%2520Cloud%2520Practitioner) | **Optional** | Gain hands-on experience and earn a badge.
 
-
-AWS SkillBuilder
-  
-  [AWS Cloud Essentials](https://explore.skillbuilder.aws/learn/learning_plan/view/82/cloud-essentials-knowledge-badge-readiness-path) | You can only get the badge to test your knowledge or you can take the full path. | MANDATORY
-  
-  [AWS Cloud Quest](https://explore.skillbuilder.aws/learn/course/11458/AWS%2520Cloud%2520Quest%253A%2520Cloud%2520Practitioner) | This is to get hands-on experience and get a badge too. | OPTIONAL
-
-
-
-> **Notes:** If you find any weak points in your knowledge or you fail the AWS Cloud Essentials badge, go reread the [Reading Resources](#reading-resources) then redo the exam the next day.
+> **Note:** If you identify any weak points or fail the AWS Cloud Essentials badge, revisit the [Reading Resources](#reading-resources) before retaking the exam.
 
 ---
 
-
-
 ## Exam Preparation
 
+- **Free**: [Tutorial Dojo Sample Exams](https://portal.tutorialsdojo.com/product-category/free-practice-exams/)  
+- **Paid**: [Tutorial Dojo 19-Exam Pack](https://portal.tutorialsdojo.com/courses/aws-certified-cloud-practitioner-practice-exams/) | **Best**
+- **Free**: [W3Schools Practice Exam](https://www.w3schools.com/aws/aws_quiz.php)
+- **Free**: [AWS Certified Cloud Practitioner Sample Questions (PDF)](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/ET93g0Vgk1VNro_udrtECZ4BSaOj0kj9ekkPmifE7ERZlA?e=AHKdz7)
+- **Free**: [Mock Exam by Elyas](https://forms.gle/XJkVnV5AfrDi4cVn9)
+- **Free**: [Official Practice Exams](https://explore.skillbuilder.aws/learn/course/external/view/elearning/14050/aws-certified-cloud-practitioner-official-practice-question-set-clf-c02-english)
+- **Free**: CCP101 in Moodle
 
-
- Free | [Tutorial Dojo Sample](https://portal.tutorialsdojo.com/product-category/free-practice-exams/)
- 
- Paid | [Tutorial Dojo Exams 19 Exam](https://portal.tutorialsdojo.com/courses/aws-certified-cloud-practitioner-practice-exams/) | BEST
- 
- Free | [W3schools Practice Exam](https://www.w3schools.com/aws/aws_quiz.php)
-   
- Free | [AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf](https://nasservocational-my.sharepoint.com/:b:/g/personal/nv22084_nvtc_edu_bh/ET93g0Vgk1VNro_udrtECZ4BSaOj0kj9ekkPmifE7ERZlA?e=AHKdz7)
- 
- Free | [Mock Exam by Elyas](https://forms.gle/XJkVnV5AfrDi4cVn9)
- 
- Free | [Official Practice Exams](https://explore.skillbuilder.aws/learn/course/external/view/elearning/14050/aws-certified-cloud-practitioner-official-practice-question-set-clf-c02-english)
- 
-  Free | CCP101 in Moodle.
-
-
-
-> **Notes:** If you find any weak points in your knowledge or fail any of the practice exams, go reread the [Reading Resources](#reading-resources) then redo the exams.
+> **Note:** If you find any weak points in your knowledge or fail any practice exams, revisit the [Reading Resources](#reading-resources) before retaking the exams.
