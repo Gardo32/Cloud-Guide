@@ -1,9 +1,9 @@
 
 ## Learning Guides
 
-- [CLF-C02 Guide](CLF-C02.md) 
+- [CLF-C02 Guide](CLF-C02.md)
+- [AI-102 Guide](AI-102.md)
 - [SAA-C03 Guide](SAA-C03.md) Coming Soon...
-- [AI-102 Guide](AI-102.md) Coming Soon...
 
 ---
 
