@@ -11,4 +11,4 @@
 
 ---
 
-<img src="https://github.com/Gardo32/Cloud-Guide/blob/fc7e539ce6eff052f41a524e80705ac7f10f32e5/path.gif" alt="Simplified AWS Career Certification Path" width="800"/>
+<img src="path.gif" alt="Simplified AWS Career Certification Path" width="800"/>
