@@ -1,3 +1,8 @@
+> **Current Certification Offer:**
+> AWS 50% off on all Associate Exams [Link](https://pages.awscloud.com/GLOBAL-ln-GC-Traincert-Associate-Certification-Challenge-Registration-2024.html)
+> 50% off on Github Fondations (Auto applied)
+
+
 ## 📚 Learning Guides
 
 - [CLF-C02 Guide](CLF-C02.md)
