@@ -1,7 +1,7 @@
 # 🎓 Study Guide for CLF-C02
 
 ## Special Offer
-**Free Retake Until April 15**: Use code `AWSRETAKE24`  
+**Free Retake**: Use code `AWSRETAKE25`  
 🔗 [Main File Storage](https://nasservocational-my.sharepoint.com/:f:/g/personal/nv22084_nvtc_edu_bh/Eko3HjU0c7VCnrV0jyiIpOgBJ8UJtWtNm-oyhhr5fWAqhg?e=jLPwgp)
 
 ## Exam Overview
