@@ -1,0 +1,11 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/badges/page": "app/badges/page.js",
+  "/credits/page": "app/credits/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/guides/ai-102/page": "app/guides/ai-102/page.js",
+  "/guides/clf-c02/page": "app/guides/clf-c02/page.js",
+  "/guides/page": "app/guides/page.js",
+  "/guides/saa-c03/page": "app/guides/saa-c03/page.js",
+  "/page": "app/page.js"
+}
