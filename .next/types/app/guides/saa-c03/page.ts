@@ -1,4 +1,4 @@
-// File: /workspaces/my-app/app/guides/saa-c03/page.tsx
+// File: /workspaces/Cloud-Guide/app/guides/saa-c03/page.tsx
 import * as entry from '../../../../../app/guides/saa-c03/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

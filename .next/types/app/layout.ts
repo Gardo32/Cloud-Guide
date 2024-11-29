@@ -1,4 +1,4 @@
-// File: /workspaces/my-app/app/layout.tsx
+// File: /workspaces/Cloud-Guide/app/layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
